@@ -33,7 +33,7 @@ ms.collection: M365-identity-device-management
 If you use Azure Active Directory (Azure AD) B2B collaboration to work with external partners, you can invite multiple guest users to your organization at the same time. In this tutorial, you learn how to use the Azure portal to send bulk invitations to external users. Specifically, you do the following:
 
 > [!div class="checklist"]
-> * Use **Bulk invite users (Preview)** to prepare a comma-separated value (.csv) file with the user information and invitation preferences
+> * Use **Bulk create user (Preview)** to prepare a comma-separated value (.csv) file with the user information and invitation preferences
 > * Upload the .csv file to Azure AD
 > * Verify the users were added to the directory
 
